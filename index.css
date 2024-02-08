@@ -1,0 +1,61 @@
+.bg-container {
+  background-size: cover;
+  height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.top-heading {
+  font-family: Roboto;
+  text-align: center;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.Small {
+  background-color: #fbbf24;
+  height: 75px;
+  width: 75px;
+  align-self: flex-end;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: bree Serif;
+  color: #ffffff;
+}
+
+.Medium {
+  background-color: #38bdf8;
+  height: 150px;
+  width: 150px;
+  align-self: flex-end;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: bree Serif;
+  color: #ffffff;
+}
+
+.Large {
+  background-color: #ec4899;
+  height: 300px;
+  width: 300px;
+  align-self: flex-end;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: bree Serif;
+  color: #ffffff;
+}
